@@ -1,0 +1,100 @@
+/* Google font  */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope&family=Poppins:wght@400;500;600;700&family=Roboto:wght@700&display=swap');
+
+/* font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+/* Navbar section start  */
+section{
+    padding: 50px 0;
+}
+.logo{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 22px;
+    color: #3E3E3E;
+}
+.nav-anchor{
+    color: #3E3E3E;
+    text-align: center;
+}
+h1{
+    font-size: 48px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 58px;
+    color: #ffff;
+    
+}
+h2{
+    font-size: 38px;
+    font-weight: 800;
+    font-family: Poppins;
+    color: #231D4F;
+}
+h3{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Roboto;
+    color: #231D4F;
+}
+h4{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 28px;
+    color: #231D4F;
+    
+}
+p{
+    font-size: 16px;
+    font-weight: 300;
+    font-family: Poppins;
+}
+
+
+/* .every-moment-section start */
+
+.every-moment-section p{
+    color: #6C6C6C;
+
+}
+.btn-light{
+    font-weight: 700;
+    color: #3F87F5;
+    
+}
+
+
+.toast{
+    font-size: 14px;
+    font-weight: 500;
+    color: #3E3E3E;
+    border-left: 15px solid #3F87F5;
+    
+}
+.toast-body i{
+    color:#5EACFF ;
+}
+
+/* .every-moment-section end */
+/* Our package section start  */
+
+.card a{
+    display: flex;
+    justify-content: center;
+}
+.card p{
+    font-weight: 400;
+    color:#848199 ;
+}
+.package-box{
+    transform: scale(1.1);
+    position: relative;
+    bottom: 10px;
+}
+.ss{
+    padding-bottom: 0;
+}
+/* Our package section start  */
